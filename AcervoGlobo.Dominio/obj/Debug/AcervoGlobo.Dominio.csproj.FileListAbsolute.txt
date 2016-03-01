@@ -1,0 +1,5 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Dominio\bin\Debug\AcervoGlobo.Dominio.dll
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Dominio\bin\Debug\AcervoGlobo.Dominio.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Dominio\obj\Debug\AcervoGlobo.Dominio.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Dominio\obj\Debug\AcervoGlobo.Dominio.dll
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Dominio\obj\Debug\AcervoGlobo.Dominio.pdb

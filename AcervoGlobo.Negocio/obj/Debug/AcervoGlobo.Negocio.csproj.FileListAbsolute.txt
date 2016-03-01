@@ -1,0 +1,9 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.Negocio.dll
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.Negocio.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.Dominio.dll
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.Dominio.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\bin\Debug\AcervoGlobo.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\obj\Debug\AcervoGlobo.Negocio.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\obj\Debug\AcervoGlobo.Negocio.dll
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo.Negocio\obj\Debug\AcervoGlobo.Negocio.pdb

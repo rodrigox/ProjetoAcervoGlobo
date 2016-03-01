@@ -1,0 +1,6 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\bin\Debug\AcervoGlobo.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\bin\Debug\AcervoGlobo.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\bin\Debug\AcervoGlobo.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\obj\Debug\AcervoGlobo.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\obj\Debug\AcervoGlobo.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\AcervoGlobo\AcervoGlobo\obj\Debug\AcervoGlobo.pdb
